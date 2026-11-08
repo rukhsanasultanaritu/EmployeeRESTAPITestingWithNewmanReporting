@@ -60,6 +60,17 @@ The following screenshot shows the Newman HTML test execution report.
 <img width="1731" height="1610" alt="image" src="https://github.com/user-attachments/assets/9a894a64-b441-4dca-97f5-02e3216da0a4" />
 <img width="1731" height="2384" alt="image" src="https://github.com/user-attachments/assets/4563f3bd-e030-438b-a94e-ac0b7038ec78" />
 
+### Project Links
+
+[GitHub Repository](https://github.com/rukhsanasultanaritu/EmployeeRESTAPITestingWithNewmanReporting.git)
+
+## Bug Reporting
+[View Bug Reports in Jira](https://sultanaritu673.atlassian.net/jira/software/projects/ERA/list?jql=project+%3D+ERA+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiM2Y2NWM3MzkwMGYyNDJjNTljZmIxNWYwZjE5NjkwZjUiLCJwIjoiaiJ90)
+
+## Author
+Rukhsana Sultana Ritu | CSE Graduate | Aspiring Software QA Engineer
+
+
 
 
 
