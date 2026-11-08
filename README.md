@@ -31,7 +31,7 @@ Here we have create automation and generate a newman report.
 ### Clone Project
 
 ```bash
-git clone https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+git clone https://github.com/rukhsanasultanaritu/EmployeeRESTAPITestingWithNewmanReporting.git
 ```
 ## Run the Commands
 ### Step 1: Initialize npm
@@ -56,5 +56,7 @@ node .\report.js
 ```
 ## Newman HTML Report
 The following screenshot shows the Newman HTML test execution report.
+<img width="1731" height="1610" alt="image" src="https://github.com/user-attachments/assets/9a894a64-b441-4dca-97f5-02e3216da0a4" />
+
 
 
