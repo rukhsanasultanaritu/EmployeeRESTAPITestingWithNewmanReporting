@@ -27,3 +27,34 @@ Here we have create automation and generate a newman report.
 ## API Documentation 
 [Employee API Documentation](https://documenter.getpostman.com/view/49956893/2sBYHUUg1H)
 
+## How to run this project
+### Clone Project
+
+```bash
+git clone https://github.com/rukhsanasultanaritu/EmployeeApiAutomationWithNewmanReporting.git
+```
+## Run the Commands
+### Step 1: Initialize npm
+```bash
+npm init -y
+```
+### Step 2: Install Newman
+```bash
+npm i newman
+```
+### Step 3: Run the Postman Collection
+```bash
+npx newman run collection.json -e "environment.json"
+```
+### Step 4: Install HTML Extra Reporter
+```bash
+npm i newman-reporter-htmlextra
+```
+### Step 5: Generate the HTML Report
+```bash
+node .\report.js
+```
+## Newman HTML Report
+The following screenshot shows the Newman HTML test execution report.
+
+
