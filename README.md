@@ -66,6 +66,7 @@ The following screenshot shows the Newman HTML test execution report.
 
 ## Bug Reporting
 [View Bug Reports in Jira](https://sultanaritu673.atlassian.net/jira/software/projects/ERA/list?jql=project+%3D+ERA+ORDER+BY+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiMzhjZTFkMGY5M2M2NGNkNDkxNDRjNDY1NmE2NjkxYmIiLCJwIjoiaiJ9)
+
 [Download Bug Report Documentation (Excel)](https://1drv.ms/x/c/f6dd8cfc531102e5/IQDwiJNrINKzSozA-oP-hoFOAR2vTmUTmymF94eNKk4Rk0E?e=x5qP1t)
 
 ## Author
